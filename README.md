@@ -16,10 +16,10 @@ This repo contains a single-file Python tool `crypto_price_alert.py` that polls 
 
 Here’s what the tool looks like in action:
 
-![Terminal Demo](images/terminal_demo.png)  
+[![Terminal Demo](images/terminal_demo.png) ](https://via.placeholder.com/600x300?text=Terminal+Demo) 
 *Script running in the terminal, tracking Bitcoin & Ethereum prices.*
 
-![Email Alert](images/email_alert.png)  
+[![Email Alert](images/email_alert.png)  ](https://via.placeholder.com/600x300?text=Email+Alert)
 *Example email alert when thresholds are triggered.*
 
 ---
@@ -32,6 +32,7 @@ Whether you’re a day trader or a long-term investor, it ensures you’ll **nev
 Instead of being glued to your phone or laptop, you can relax and let the script do the boring work of watching charts. It will only disturb you when something important happens — like a major dip or breakout. That means **less stress, fewer missed opportunities, and more peace of mind**.
 
 ---
+![Config Example](https://via.placeholder.com/600x300?text=Config+JSON)
 
 ## Key Features
 - **Simple configuration**: All settings stored in a JSON file — no coding required.  
@@ -48,6 +49,7 @@ Instead of being glued to your phone or laptop, you can relax and let the script
 - Optional: `schedule` package for scheduling (the script uses `time.sleep` by default)
 
 Install dependencies:
+![Dashboard](https://via.placeholder.com/600x300?text=Dashboard+GUI)
 
 ```bash
 pip install requests schedule
